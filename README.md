@@ -5,7 +5,7 @@ Forward Error Correction library with Reed-Solomon
 Donwload, and import into Arduino IDE
 
 # Exmaple
-
+```
 #include <RS-FEC.h>
 
 char message[] = "Some very important message";
@@ -36,7 +36,7 @@ void setup() {
 }
 
 void loop() { }
-
+```
 
 The Output:
 
