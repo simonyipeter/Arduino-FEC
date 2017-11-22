@@ -11,7 +11,7 @@ Donwload, and import into Arduino IDE
 #include <RS-FEC.h>
 
 char message[] = "Some very important message";
-const int msglen = 60;  const uint8_t ECC_LENGTH = 10;  //Max message lenght, and "gurdian bytes", Max corrected bytes ECC_LENGTH/2
+const int msglen = 60;  const uint8_t ECC_LENGTH = 10;  //Max message lenght, and "guardian bytes", Max corrected bytes ECC_LENGTH/2
 char message_frame[msglen]; // The message size would be different, so need a container
 char repaired[msglen];    char encoded[msglen + ECC_LENGTH];
 
