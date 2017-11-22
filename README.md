@@ -39,12 +39,12 @@ void loop() { }
 ```
 
 The Output:
-
+```
 Original: Some very important message
 Encoded:  Some very important message?ÃŠÃ¼?
 Corrupted: Some very important -----ge?ÃŠÃ¼?
 Result: SUCCESS
 Repaired: Some very important message
-
+```
 
 
