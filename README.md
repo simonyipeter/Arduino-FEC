@@ -1,2 +1,2 @@
-# arduino-fec
-Reed-Solomon Forward Error Correction library
+# Arduino-FEC
+Forward Error Correction library with Reed-Solomon 
