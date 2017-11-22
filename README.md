@@ -1,5 +1,7 @@
 # Arduino-FEC
-Forward Error Correction library with Reed-Solomon 
+Forward Error Correction library with Reed-Solomon
+Based on mersinvald's code:
+https://github.com/mersinvald/Reed-Solomon
 
 # Install
 Donwload, and import into Arduino IDE
